@@ -5,7 +5,7 @@ html{
 body{
     background-image: url(imagens/bg.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
 }
 
 .mosca1{
@@ -51,10 +51,4 @@ body{
     font-size: 20px;
     font-weight: bold;
 }
-@media  (max-width = 965px) {
-    body{
-        background-image: url(imagens/bg.jpg);
-        background-repeat: no-repeat;
-        
-    }
-}
+
